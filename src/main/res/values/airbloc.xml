@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="org_airbloc_datacollector_app_name" />
+    <string name="org_airbloc_datacollector_app_token" />
+</resources>
